@@ -37,7 +37,8 @@ Using a "transparent" LED matrix as a speaker grid.
 ## Project Media
 
 ### Demonstration Videos
-coming soon
+
+[Demo (Youtube)](https://youtube.com/shorts/J1kN-PWX2cs)
 
 ## Hardware Requirements
 
