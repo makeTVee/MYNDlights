@@ -49,6 +49,7 @@ Using a "transparent" LED matrix as a speaker grid.
 - **Wiring** - some FFC-cables
 
 ## Installation Steps
+
 Custom PCBs for getting the I2S data and powring the ESP. There are some future options, e.g. to switch off the LEDs (using the STM32 I2C) when the battery is low.
 
 ![Flex PCB](./images/flex.jpg)
@@ -58,7 +59,7 @@ The flex PCB was designed in a way, that the holes are slightly smaller than the
 
 ![Flex installation](./images/flec_on_connector.jpg)
 
-There is no space close to the connector because of the subwoofer, so the signals are transferred by a FFC cable to the upper right corner. There is enough süpace for the PCV with ESP.
+There is no space close to the connector because of the subwoofer, so the signals are transferred by a FFC cable to the upper right corner. There is enough süpace for the PCB with ESP.
 
 ![PCBs installed without battery](./images/installed_no_batt.jpg)
 
