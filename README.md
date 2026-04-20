@@ -31,11 +31,11 @@ picture coming soon
 
 Using a 32x16 "transparent" LED matrix as a speaker grid.
 
-(./images/matrix_back.jpg)
+![Matrix back](./images/matrix_back.jpg)
 
 The LEDs are placed between the holes of the speaker grille
 
-(./images/matrix_front.jpg)
+![Matrix front](./images/matrix_front.jpg)
 
 
 <img width="641" height="384" alt="image" src="https://github.com/user-attachments/assets/83827cb1-3cbb-445b-875b-d0e0413b199b" />
