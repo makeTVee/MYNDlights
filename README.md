@@ -1,6 +1,6 @@
 # MYNDlights
 
-Addressable LED mod for the [Teufel MYND](https://github.com/teufelaudio/mynd-hardware) open-source Bluetooth speaker. Runs WLED on an ESP32-S3 with audio-reactive effects driven by I2S bus sniffing.
+Addressable LED mod with custom 3D-printed front panels for the [Teufel MYND](https://github.com/teufelaudio/mynd-hardware) open-source Bluetooth speaker. Runs WLED on an ESP32-S3 with audio-reactive effects driven by I2S bus sniffing.
 
 <img src="./images/512_matrix.png" width="600">
 
