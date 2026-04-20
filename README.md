@@ -3,6 +3,8 @@
 
 Addressable LED modification for the Teufel MYND open source Bluetooth speaker. Transform your MYND speaker with stunning, programmable RGB lighting synchronized to audio and custom animations.
 
+For embedding the LEDs, custom front panels were designed and 3D printed.
+
 ![Matrix](./images/512_matrix.png)
 
 ## Features
