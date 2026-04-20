@@ -1,5 +1,5 @@
 
-# MYNDlights 💡
+# Project MYNDlights 💡
 
 Addressable LED modification for the Teufel MYND open source Bluetooth speaker. Transform your MYND speaker with stunning, programmable RGB lighting synchronized to audio and custom animations.
 
