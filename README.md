@@ -45,12 +45,15 @@ A custom flex PCB taps the I2S connector on the mainboard — no soldering requi
 Transparent LED matrix mounted behind the speaker grille, LEDs placed between the grille holes.
 
 CAD drawing
+
 <img src="./images/matrix_cad.jpg" width="600">
 
 Installed Matrix PCB
+
 <img src="./images/matrix_back.jpg" width="600">
 
 Front with the LEDs
+
 <img src="./images/matrix_front.jpg" width="400">
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/83827cb1-3cbb-445b-875b-d0e0413b199b" />
