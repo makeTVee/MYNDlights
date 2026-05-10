@@ -38,7 +38,7 @@ A custom flex PCB taps the I2S connector on the mainboard — no soldering requi
 <img src="./images/teufel_ring.jpg" width="600">
 
 ### Ring — 100 LEDs
-*(photo pending)*
+<img src="./images/100_ring.jpg" width="600">
 
 ### Matrix — 512 LEDs (32×16)
 
